@@ -1,4 +1,4 @@
-# Hola, soy Vladimir Morcep
+# Hola, soy dimitrip
 
 Estoy en formación en desarrollo y arquitectura de software. Actualmente practico Python, Git, Linux y desarrollo web.
 
